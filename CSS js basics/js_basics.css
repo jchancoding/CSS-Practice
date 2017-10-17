@@ -1,0 +1,46 @@
+header{
+  background-color: red;
+  color: AliceBlue;
+}
+h1{
+  padding: 5px;
+  margin: 0px;
+}
+footer{
+  background-color: grey;
+  padding: 5px;
+}
+.container{
+  background-color: midnightblue;
+  width: 1200px;
+  padding: 10px;
+}
+.r_corners{
+  border-radius: 5px;
+}
+.teal{
+  background-color: cadetblue;
+  color: aqua;
+  margin: 10px 0px;
+  padding: 3px 10px 3px 10px;
+  width: 200;
+}
+.black{
+  background-color: black;
+  color: AliceBlue;
+  margin-top: 10px;
+  margin-left: 45px;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 900px;
+  vertical-align: top;
+}
+a{
+  color: aqua;
+}
+.content, .teal, .black{
+  display: inline-block;
+}
+.spcl_words{
+  color: purple;
+}
