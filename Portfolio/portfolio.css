@@ -1,0 +1,171 @@
+body{
+  width: 1100px;
+}
+header{
+  background-color: gainsboro;
+  display: flex;
+  width: 1110px;
+}
+a{
+  color: black;
+}
+.hblock0{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  width: 50%;
+  padding-left: 10px;
+}
+.hblock1{
+  font-size: 14;
+  font-family: sans-serif;
+  text-align-last: right;
+  width: 50%;
+  padding-right: 10px;
+  padding-top: 20px;
+  vertical-align: middle;
+}
+.container{
+  background-color: darkslateblue;
+  display: inline-block;
+  height: 1008px;
+  width: 1090px;
+  padding: 10px;
+}
+.row1{
+  font-family: sans-serif;
+  width: 1090px;
+}
+.row1 img, .boxtitle, .textbox{
+  display: inline-block;
+}
+.row1 img{
+  border: 5px solid AliceBlue;
+  height: 280px;
+  width: 435px;
+  margin: 10px;
+}
+.boxtitle{
+  background-color: gainsboro;
+  height: 40px;
+  margin-left: 10px;
+  margin-top: 10px;
+  position: absolute;
+  padding: 10px;
+  width: 580px;
+}
+.boxtitle p{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+.textbox{
+  background-color: lavender;
+  margin: 60px 0px 10px 10px;
+  padding: 10px;
+  height: 220px;
+  width: 580px;
+  position: relative;
+  vertical-align: top;
+}
+.row2{
+  display: inline-block;
+  width: 1090px;
+}
+.block1{
+  font-family: sans-serif;
+  background-color: lavender;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 640px;
+  width: 340px;
+}
+.boxtitle1{
+  background-color: gainsboro;
+  padding: 10px;
+  height: 30px;
+  width: 320px;
+  position: absolute;
+}
+.boxtitle1 p{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 5px;
+}
+.boxtitle2{
+  background-color: gainsboro;
+  padding: 10px;
+  height: 30px;
+  width: 320px;
+  position: relative;
+}
+.boxtitle2 p{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 5px;
+}
+.proj_img{
+  display: inline-block;
+  height: 185px;
+  width: 340px;
+  position: relative;
+  top: 50px;
+}
+.block1_txt{
+  padding: 5px;
+  position: relative;
+  top: 30px;
+  height: 190px;
+  width: 330px;
+}
+.icon_row{
+  padding: 10px;
+  width: 320px;
+  text-align: left;
+  position: relative;
+}
+.icon_row img{
+  margin: 5px;
+  width: 40px;
+}
+.grn_button{
+  background-color: MediumAquaMarine;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 0px;
+  margin: 0px 35%;
+  height: 30px;
+  position: relative;
+  text-align: center;
+}
+.grn_button p{
+  color: white;
+  font-size: 12px;
+  padding: 0px 5px;
+  position: relative;
+  bottom: 5px;
+}
+.cont_inf{
+  background-color: gainsboro;
+  font-family: sans-serif;
+  text-align: center;
+  width: 1070px;
+  margin: 10px 10px 0px 10px;
+}
+.cont_inf1{
+  background-color: gainsboro;
+  text-align: center;
+  width: 1070px;
+  margin: 0px auto;
+}
+.cont_inf1 img{
+  width: 20px;
+}
+.cont_inf1 a{
+  color: black;
+  font-style: italic;
+}
