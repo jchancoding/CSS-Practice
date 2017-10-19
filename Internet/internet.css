@@ -43,7 +43,7 @@ body{
   display: inline-block;
 }
 .l_sidebar{
-  background: linear-gradient(gainsboro,white);
+  background: linear-gradient(gainsboro 5%, white 20%);
   height: 580px;
   width: 180px;
   padding: 10px;
@@ -123,7 +123,7 @@ hr{
   display: inline-block;
 }
 .M_cont{
-  background: linear-gradient(gainsboro,white);
+  background: linear-gradient(gainsboro 5%, white 20%);
   height: 600px;
   width: 770px;
   margin-left: -4px;
