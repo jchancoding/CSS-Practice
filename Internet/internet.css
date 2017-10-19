@@ -1,0 +1,152 @@
+html{
+  font-family: sans-serif;
+}
+header{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  height: 80px;
+  width: 1000px;
+  text-align: left;
+  display: inline-block;
+}
+header img{
+  height: 80px;
+  width: 80px;
+  display: inline-block;
+}
+header p{
+  width: 400px;
+  height:30px;
+  padding: 20px 0px;
+  margin: 0px;
+  vertical-align: top;
+  display: inline-block;
+}
+.bluebar{
+  color: white;
+  font-size:20px;
+  width: 970px;
+  height: 20px;
+  margin: 0px;
+  margin-top: -20px;
+  padding: 15px;
+  background-color: midnightblue;
+}
+body{
+  height: 1200px;
+  width: 1000px;
+}
+.container{
+  height: 600px;
+  width: 1000px;
+  display: inline-block;
+}
+.l_sidebar{
+  background-color: gainsboro;
+  height: 580px;
+  width: 180px;
+  padding: 10px;
+  display: inline-block;
+}
+h1{
+  font-size: 15px;
+}
+.txt1{
+  font-size: 12px;
+  font-weight: bold;
+}
+.button1{
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: lightskyblue;
+  text-align: center;
+  height: 15px;
+  width:170px;
+  padding: 5px;
+  border-radius: 5px;
+  border-color: lightskyblue;
+  display: inline-block;
+}
+.button2{
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: orange;
+  text-align: center;
+  height: 15px;
+  width:170px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 5px;
+  border-radius: 5px;
+  border-color: lightskyblue;
+  display: inline-block;
+}
+hr{
+  border: 2px solid grey;
+}
+.dojo_ad{
+  background: url(./images/ad_background.png);
+  text-align: center;
+  height: 263px;
+  width: 180px;
+  margin-top: 20px;
+}
+.dojo_ad_txt{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0px auto;
+  position: relative;
+  display: inline-block;
+}
+.dojo_ad_ninja{
+  width: 80px;
+}
+.dojo_ad_button{
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: lightblue;
+  text-align: center;
+  height: 15px;
+  width:140px;
+  padding: 5px;
+  border-radius: 5px;
+  border-color: lightblue;
+  display: inline-block;
+}
+.M_cont{
+  height: 600px;
+  width: 770px;
+  margin-left: -4px;
+  padding-left: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+.M_cont_home{
+  color: navy;
+  font-size: 15px;
+  height: 20px;
+  display: inline-block;
+}
+.home{
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
+.M_cont_phone{
+  height: 30px;
+  width: 100px;
+  display: inline-block;
+}
+.phoneimg{
+  height: 30px;
+  width: 30px;
+}
